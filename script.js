@@ -21,11 +21,8 @@ function handleClickOperator() {
                         return;
                     return result.value = result.value + number.innerHTML;
                 case '+':
-                    return result.value = result.value + number.innerHTML;
                 case '-':
-                    return result.value = result.value + number.innerHTML;
                 case '*':
-                    return result.value = result.value + number.innerHTML;
                 case '/':
                     return result.value = result.value + number.innerHTML;
                 case '=':
